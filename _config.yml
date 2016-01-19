@@ -1,0 +1,28 @@
+name: Vastgoed in Amerika
+favicon: null
+layout_spectrum: 0.13212682725861669
+typography_spectrum: 0.41261586803011596
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7126395236700773
+  lightness: 0.02543198550119996
+  saturation: 0.7192465965636075
+  rhythmicContrast: 0.6482047401368618
+purpose: []
